@@ -1,0 +1,28 @@
+Following are the major Problems that I faced during coding.
+
+1) First and the most encountered error is "Assertion Error".
+	Solution:
+		 Then I check my variable type like int,float and str and it help me to involve avoiding the error.
+		 Basically I was coming across this error because test file's value and my answer was not matching.
+
+2) Sceond one is "indentation error".
+	Solution:
+		 I start using one method which is using four space before this I was using tab and four spaces both.
+
+3) Third one is "Autograder".
+	Solution:
+		 I just can understand how actually autograder works..According to be it follow keenly the student test file and contains many checks.
+		 Student who got clever mind deal it with hard Coding but mainly students including me couldn't get it.
+
+4) Fourth one is "Syntax error".
+	Solution:
+		 Sir as you told to check flow of function and dry run the code ,this technique help me to resolve this error and 
+		 involve my coding alot.
+
+5) Fiveth one is "NameError".
+
+6) Sixth one is "TypeError".
+
+       Last two Error I met very less.I hope these all Error will not in my codes next time as Sir you delared them clearly and
+	nicely in the class and I am try hard to get them over.
+
